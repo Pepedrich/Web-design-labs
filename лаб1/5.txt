@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sleeping Beauty</title>
+</head>
+<body>
+    <h1>Sleeping Beauty</h1>
+    <img src="images/u4.png" alt="Sleeping Beauty Image">
+    <p>In a faraway land there lived a king and queen.</p>
+    <br>
+    <b>They had a grand palace and loving subjects.</b>
+    <u>But they had no children.</u>
+    <br>
+    <i>They longed for a baby.</i>
+</body>
+</html>
