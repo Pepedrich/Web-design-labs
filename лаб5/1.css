@@ -1,0 +1,40 @@
+ body {
+        font-family: Arial, sans-serif;
+        background-color: #b3bcea;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 1rem 0;
+    }
+    nav {
+        background-color: #444;
+        text-align: center;
+        padding: 0.5rem 0;
+    }
+    nav a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0 1rem;
+    }
+    nav a:hover {
+        color: #00ff00;
+    }
+    /*nav a:visited {
+        color: gray;
+    }*/
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+    .hobby {
+        margin-bottom: 20px;
+    }
+    .hobby img {
+        max-width: 100%;
+        height: auto;
+    }
