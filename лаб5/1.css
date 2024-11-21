@@ -23,9 +23,9 @@
     nav a:hover {
         color: #00ff00;
     }
-    /*nav a:visited {
+     a:visited {
         color: gray;
-    }*/
+    }
     .container {
         max-width: 800px;
         margin: 0 auto;

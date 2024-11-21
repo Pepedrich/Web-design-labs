@@ -1,0 +1,102 @@
+.box-static {
+    width: 100px;
+    height: 100px;
+    background-color: #87CEEB;
+    margin: 10px;
+}
+
+.box-relative-1 {
+    width: 150px;
+    height: 150px;
+    background-color: #90EE90;
+    margin: 20px;
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+
+.box-relative-2 {
+    width: 150px;
+    height: 150px;
+    background-color: #FFB6C1;
+    margin: 20px;
+    display: inline-block;
+    position: relative;
+    top: -20px;
+    left: -30px;
+}
+
+.container {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: #D3D3D3;
+    margin: 20px;
+}
+
+.box-absolute-1 {
+    width: 100px;
+    height: 100px;
+    background-color: #FFA500;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.box-absolute-2 {
+    width: 100px;
+    height: 100px;
+    background-color: #9370DB;
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+.box-absolute-3 {
+    width: 100px;
+    height: 100px;
+    background-color: #8B008B;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.box-zindex-1 {
+    width: 150px;
+    height: 150px;
+    background-color: #FF7F50;
+    position: absolute;
+    z-index: 5;
+    top: 50px;
+    left: 50px;
+}
+
+.box-zindex-2 {
+    width: 150px;
+    height: 150px;
+    background-color: #6A5ACD;
+    position: absolute;
+    z-index: 4;
+    top: 100px;
+    left: 100px;
+}
+
+.box-fixed-1 {
+    width: 100px;
+    height: 100px;
+    background-color: #FFFF00;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+.box-fixed-2 {
+    width: 100px;
+    height: 100px;
+    background-color: #FFA07A;
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
